@@ -1,1 +1,3 @@
  fourth file.txt 
+
+NEW FILE TEXT1
