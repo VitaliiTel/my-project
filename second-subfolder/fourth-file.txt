@@ -1,3 +1,7 @@
  fourth file.txt 
 
+<<<<<<< HEAD
 NEW FILE TEXT1
+=======
+This file was modified
+>>>>>>> new-feature
